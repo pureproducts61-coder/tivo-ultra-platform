@@ -1,32 +1,24 @@
 {
   "project_name": "TIVO-ULTRA",
-  "vision": "বিশ্বের সেরা ও শক্তিশালী AI ইকোসিস্টেম যা ইউজারদের জন্য ওয়েবসাইট, মোবাইল অ্যাপ এবং কম্পিউটার সফটওয়্যার সরাসরি গিটহাব অ্যাকশন ব্যবহার করে বিল্ড করে দেবে।",
-  "admin": {
-    "name": "Admin (The Creator)",
-    "status": "Supreme Controller",
-    "access_level": "GOD_MODE"
+  "vision": "A world-class autonomous AI ecosystem for creating websites, apps, and software.",
+  "admin": "pureproducts61-coder",
+  "identity": "AETHER-TIVO",
+  "core_commands": {
+    "payment_gateways": ["Bikash", "Nagad", "Rocket"],
+    "monetization": {
+      "free_tier": "Limited credits",
+      "paid_tier": "Premium features + Binary builds"
+    },
+    "binary_factory": "Automated EXE/APK/MSI build using GitHub Actions",
+    "cron_system": "Autonomous tasks lasting days or months controlled via Admin Chat",
+    "hosting_guardian": "Dynamic bandwidth and resource monitoring for Vercel/Supabase"
   },
-  "business_model": {
-    "free_tier": "Limited daily credits, Basic web apps",
-    "paid_tier": "Unlimited access, Mobile & Desktop app export, Premium support",
-    "payment_methods": ["Bkash", "Nagad", "Rocket"]
-  },
-  "ui_identity": {
-    "theme": "Deep Obsidian & Neon Cyan",
-    "logo_path": "/public/logo.png",
-    "style": "Glassmorphism & High-end Animations"
-  },
-  "research_log": [
-    {
-      "date": "2024-05-20",
-      "topic": "System Initialization",
-      "insight": "Starting with Next.js 15 + Tailwind v4 for maximum speed. GitHub Actions will handle the .exe and .apk builds for high-level automation."
-    }
+  "research_notes": [
+    "Using Next.js 15 for lightning-fast performance.",
+    "Bikash/Nagad integration will use a verification matching system.",
+    "Cron jobs will be handled via GitHub Actions to maintain autonomy without server costs.",
+    "Resource monitoring will auto-optimize images and cache to save hosting costs."
   ],
-  "tasks": [
-    "Build a premium landing page",
-    "Setup secure Admin Panel using Env Variables",
-    "Integrate Manual Payment Tracking System",
-    "Automate build pipeline for Software/Mobile App"
-  ]
+  "active_long_term_tasks": [],
+  "status": "Awakening - Cloned from dreem-buddy-ai and evolving."
 }
